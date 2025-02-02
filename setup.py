@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='ocean_qap',
     packages=find_packages(include=['ocean_qap']),
-    version='0.0.1',
+    version='0.0.2',
     description='Prototype library for solving QAP with the Ocean SDK',
     author='Atharv Chowdhary',
     install_requires=[
